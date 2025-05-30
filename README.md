@@ -5,6 +5,7 @@
 在src里的App.vue文件
 终端：
 install npm
+#
 npm run dev
 # live-client
 
