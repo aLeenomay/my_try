@@ -4,8 +4,9 @@
 ![image](https://github.com/user-attachments/assets/d7911b2d-f50e-42cf-8f9d-f068ca6ffa33)
 在src里的App.vue文件
 终端：
+```
 install npm
-#
+```
 npm run dev
 # live-client
 
