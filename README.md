@@ -2,7 +2,10 @@
 我完成了播放视频，选择视频播放，发送弹幕功能：
 大概样子如图：
 ![image](https://github.com/user-attachments/assets/d7911b2d-f50e-42cf-8f9d-f068ca6ffa33)
-
+在src里的App.vue文件
+终端：
+install npm
+npm run dev
 # live-client
 
 This template should help get you started developing with Vue 3 in Vite.
