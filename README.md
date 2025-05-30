@@ -5,7 +5,7 @@
 在src里的App.vue文件
 终端：
 ```
-install npm
+npm install
 ```
 ```
 npm run dev
